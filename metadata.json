@@ -1,0 +1,6 @@
+{
+  "name": "ORCA",
+  "description": "An autonomous AI agent that lives inside the user's phone, featuring the Abyssal Neon design language.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
